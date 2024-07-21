@@ -1,7 +1,7 @@
 # Challenge
 # 1 Download ZIP
 # 2 Unzip the project
-# 3 Open challgenge folder in Visual Studio Code
+# 3 Open challenge folder in Visual Studio Code
 # 4 Terminal:  cd my-app
                npm install
                npm start
