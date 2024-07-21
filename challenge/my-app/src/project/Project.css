@@ -1,0 +1,14 @@
+.grid-container {
+    font-family: monospace;
+    white-space: pre; 
+    line-height: 1.2; 
+  }
+  
+  .grid-row {
+    display: flex;
+  }
+  
+  .grid-cell {
+    width: 20px; 
+    text-align: center; 
+  }
